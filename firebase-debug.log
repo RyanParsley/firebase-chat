@@ -1,0 +1,28 @@
+[debug] [2017-08-25T19:21:52.092Z] ----------------------------------------------------------------------
+[debug] [2017-08-25T19:21:52.095Z] Command:       /Users/ryan.parsley/.nvm/versions/node/v6.10.0/bin/node /Users/ryan.parsley/.nvm/versions/node/v6.10.0/bin/firebase serve
+[debug] [2017-08-25T19:21:52.095Z] CLI Version:   3.9.2
+[debug] [2017-08-25T19:21:52.096Z] Platform:      darwin
+[debug] [2017-08-25T19:21:52.096Z] Node Version:  v6.10.0
+[debug] [2017-08-25T19:21:52.096Z] Time:          Fri Aug 25 2017 15:21:52 GMT-0400 (EDT)
+[debug] [2017-08-25T19:21:52.096Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-08-25T19:21:52.109Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-08-25T19:21:52.110Z] > authorizing via signed-in user
+[debug] [2017-08-25T19:21:52.112Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/chat-59efe  
+ Fri Aug 25 2017 15:21:52 GMT-0400 (EDT)
+[debug] [2017-08-25T19:21:52.515Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-25T19:21:52.516Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/chat-59efe/tokens  
+ Fri Aug 25 2017 15:21:52 GMT-0400 (EDT)
+[debug] [2017-08-25T19:21:52.848Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/ryan.parsley/Sites/angular-firebase'...
+[info] 
+[debug] [2017-08-25T19:21:52.853Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/chat-59efe  
+ Fri Aug 25 2017 15:21:52 GMT-0400 (EDT)
+[debug] [2017-08-25T19:21:53.150Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-25T19:21:53.150Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/372555709254/clients/_:getWebAppConfig  
+ Fri Aug 25 2017 15:21:53 GMT-0400 (EDT)
+[debug] [2017-08-25T19:21:53.527Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: dist
+[info] ✔  hosting: Local server: http://localhost:5000
+
